@@ -13,7 +13,7 @@
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/yashkashyap12">
-  <img src="https://img.shields.io/badge/LinkedIn-0D0221?style=for-the-badge&logo=linkedin&logoColor=7C3AED" />
+  <img src="https://img.shields.io/badge/LinkedIn-0D0221?style=for-the-badge&logo=linkedin&logoColor=A78BFA" />
 </a>&nbsp;
 <a href="https://github.com/yash120704"><img src="https://img.shields.io/badge/GitHub-0D0221?style=for-the-badge&logo=github&logoColor=A78BFA" /></a>&nbsp;
 <a href="mailto:yashkashyap1204@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D0221?style=for-the-badge&logo=gmail&logoColor=A78BFA" /></a>&nbsp;
