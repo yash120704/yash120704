@@ -478,6 +478,10 @@ class YashKashyap:
 
 <br/>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0221,50:7C3AED,100:0D0221&height=1&section=header" />
+
+<br/>
+
 <!---------- CERTIFICATIONS ---------->
 
 <div align="center">
