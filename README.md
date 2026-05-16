@@ -457,36 +457,7 @@ class YashKashyap:
 <td valign="top">
 <br/>
 
-**B.Tech Computer Science Engineering**
-&nbsp;&nbsp;·&nbsp;&nbsp;
-**VIT Vellore**
-
-<br/>
-
-![Python](https://img.shields.io/badge/Python-0D0221?style=flat-square&logo=python&logoColor=A78BFA)
-![ML](https://img.shields.io/badge/Machine_Learning-0D0221?style=flat-square&logo=scikit-learn&logoColor=A78BFA)
-![Full Stack](https://img.shields.io/badge/Full_Stack-0D0221?style=flat-square&logo=react&logoColor=A78BFA)
-
-<br/>
-
-- **Technical Head**, SCRS Club — led technical initiatives and team mentorship
-- Delivered **4 production-grade projects** across AI/ML and Full Stack domains
-- Certifications from **ISRO · IBM · Oracle · NIT Rourkela**
-
-<br/>
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0221,50:7C3AED,100:0D0221&height=1&section=header" />
-
-<br/>
-
-<!---------- CREDENTIALS ---------->
+<!---------- CERTIFICATIONS ---------->
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D0221,100:1a0533&height=50&text=%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%20CREDENTIALS%20%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B&fontSize=16&fontColor=A78BFA&fontAlignY=55&animation=fadeIn" width="100%"/>
