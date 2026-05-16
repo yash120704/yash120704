@@ -133,7 +133,7 @@ class YashKashyap:
 
 <br/><br/>
 
-**◈ &nbsp; AI / Machine Learning**
+<h3 align="center">◈ &nbsp; AI / Machine Learning</h3>
 
 <br/>
 
@@ -145,7 +145,7 @@ class YashKashyap:
 
 <br/><br/>
 
-**◈ &nbsp; Backend**
+<h3 align="center">◈ &nbsp; Backend</h3>
 
 <br/>
 
@@ -158,7 +158,7 @@ class YashKashyap:
 
 <br/><br/>
 
-**◈ &nbsp; Frontend**
+<h3 align="center">◈ &nbsp; Frontend</h3>
 
 <br/>
 
@@ -169,7 +169,7 @@ class YashKashyap:
 
 <br/><br/>
 
-**◈ &nbsp; Data & Infrastructure**
+<h3 align="center">◈ &nbsp; Data & Infrastructure</h3>
 
 <br/>
 
