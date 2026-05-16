@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/Resume-0D0221?style=for-the-badge&logo=googledrive&logoColor=A78BFA" />
 </a>&nbsp;
 
-<a href="https://your-portfolio-link.com">
+<a href="https://my-portfolio-sand-eight-35.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-0D0221?style=for-the-badge&logo=vercel&logoColor=A78BFA" />
 </a>
 <br/><br/>
