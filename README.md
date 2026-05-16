@@ -247,7 +247,7 @@ class YashKashyap:
 [![Gmail](https://img.shields.io/badge/Email-Reach_Out-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashkashyap1204@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-8B5CF6?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/your-leetcode-username)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-A855F7?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
-[![Resume](https://img.shields.io/badge/Resume-Download-C084FC?style=for-the-badge&logo=googledrive&logoColor=white)](https://your-resume-link.com)
+[![Resume](https://img.shields.io/badge/Resume-Download-C084FC?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1RdC2OgI4chos_7tfefPQxFjq8Qc8Tizl/view?usp=drive_link)
 
 </div>
 
