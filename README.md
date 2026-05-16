@@ -213,13 +213,27 @@ class YashKashyap:
 
 <br/>
 
-| **Stage** | **Component** | **Role** |
-|:---:|:---|:---|
-| `01` | Kalman Filter | Noise suppression on live sensor stream |
-| `02` | 4× Autoencoder | Denoising + latent feature extraction |
-| `03` | Mahalanobis Distance | Statistical deviation scoring |
-| `04` | One-Class SVM | Boundary-based anomaly classification |
-| `05` | L2 Fusion Layer | Unified multi-signal decision surface |
+╔══════════════════════════════════════════════════════════════════════════╗
+║  5-STAGE REAL-TIME DETECTION PIPELINE                                   ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║                                                                          ║
+║  [Live Sensor Stream]                                                    ║
+║         │                                                                ║
+║         ▼                                                                ║
+║  ┌──────────────┐     ┌─────────────────┐     ┌──────────────────────┐  ║
+║  │  Kalman      │────▶│  4× Autoencoder │────▶│  Mahalanobis         │  ║
+║  │  Filter      │     │  (Denoising)    │     │  Distance Scoring    │  ║
+║  └──────────────┘     └─────────────────┘     └──────────────────────┘  ║
+║                                                          │               ║
+║                                                          ▼               ║
+║                                          ┌───────────────────────────┐  ║
+║                                          │  OC-SVM ──▶ L2 Fusion     │  ║
+║                                          │  (Unified Decision Layer)  │  ║
+║                                          └───────────────────────────┘  ║
+║                                                          │               ║
+║                                                          ▼               ║
+║                                               ▸ REAL-TIME ALERT         ║
+╚══════════════════════════════════════════════════════════════════════════╝
 
 <br/>
 
@@ -263,13 +277,27 @@ class YashKashyap:
 
 <br/>
 
-| **Layer** | **Technology** | **Responsibility** |
-|:---:|:---|:---|
-| Presentation | React SPA | Traffic visualization interface |
-| Application | Django REST API + asyncio | ML inference + parallel data ingestion |
-| Intelligence | Random Forest Classifier | 81.5% accuracy · F1: 0.97 |
-| Data | PostgreSQL | 62-node history + predictions |
-| Auth | Token-based + RBAC | Role-aware endpoint access |
+╔══════════════════════════════════════════════════════════════════════════╗
+║  3-TIER PLATFORM ARCHITECTURE                                           ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║                                                                          ║
+║  TIER 1 — PRESENTATION                                                   ║
+║  ┌────────────────────────────────────────────────────────────────────┐  ║
+║  │              React SPA — Traffic Visualization Interface           │  ║
+║  └───────────────────────────────┬────────────────────────────────────┘  ║
+║                                  │  7 REST Endpoints · Token Auth        ║
+║  TIER 2 — APPLICATION            ▼                                       ║
+║  ┌────────────────────────────────────────────────────────────────────┐  ║
+║  │  Django REST API                                                   │  ║
+║  │  asyncio.gather ──▶ TomTom Traffic API + Open-Meteo Weather API   │  ║
+║  │  Random Forest Classifier  [Accuracy: 81.5%  ·  F1: 0.97]        │  ║
+║  └───────────────────────────────┬────────────────────────────────────┘  ║
+║                                  │  RBAC · Role-aware queries            ║
+║  TIER 3 — DATA                   ▼                                       ║
+║  ┌────────────────────────────────────────────────────────────────────┐  ║
+║  │         PostgreSQL  ·  62 Node Traffic History & Predictions       │  ║
+║  └────────────────────────────────────────────────────────────────────┘  ║
+╚══════════════════════════════════════════════════════════════════════════╝
 
 <br/>
 
