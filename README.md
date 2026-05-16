@@ -15,11 +15,22 @@
 <a href="https://www.linkedin.com/in/yashkashyap12">
   <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0D0221?style=for-the-badge&logo=linkedin&logoColor=A78BFA&labelColor=0D0221" />
 </a>&nbsp;
-<a href="https://github.com/yash120704"><img src="https://img.shields.io/badge/GitHub-0D0221?style=for-the-badge&logo=github&logoColor=A78BFA" /></a>&nbsp;
-<a href="mailto:yashkashyap1204@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D0221?style=for-the-badge&logo=gmail&logoColor=A78BFA" /></a>&nbsp;
-<a href="https://drive.google.com/file/d/1RdC2OgI4chos_7tfefPQxFjq8Qc8Tizl/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-0D0221?style=for-the-badge&logo=googledrive&logoColor=A78BFA" /></a>&nbsp;
-<a href="https://leetcode.com/u/CSRUOJGFFNJ/"><img src="https://img.shields.io/badge/LeetCode-0D0221?style=for-the-badge&logo=leetcode&logoColor=A78BFA" /></a>
 
+<a href="https://github.com/yash120704">
+  <img src="https://img.shields.io/badge/GitHub-0D0221?style=for-the-badge&logo=github&logoColor=A78BFA" />
+</a>&nbsp;
+
+<a href="mailto:yashkashyap1204@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-0D0221?style=for-the-badge&logo=gmail&logoColor=A78BFA" />
+</a>&nbsp;
+
+<a href="https://drive.google.com/file/d/1RdC2OgI4chos_7tfefPQxFjq8Qc8Tizl/view?usp=drive_link">
+  <img src="https://img.shields.io/badge/Resume-0D0221?style=for-the-badge&logo=googledrive&logoColor=A78BFA" />
+</a>&nbsp;
+
+<a href="https://your-portfolio-link.com">
+  <img src="https://img.shields.io/badge/Portfolio-0D0221?style=for-the-badge&logo=vercel&logoColor=A78BFA" />
+</a>
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=yash120704&style=for-the-badge&color=6D28D9&labelColor=0D0221&label=PROFILE+VIEWS" />&nbsp;
@@ -531,8 +542,7 @@ class YashKashyap:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0221?style=for-the-badge&logo=linkedin&logoColor=A78BFA)](https://www.linkedin.com/in/yashkashyap12)&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-0D0221?style=for-the-badge&logo=github&logoColor=A78BFA)](https://github.com/yash120704)&nbsp;
 [![Email](https://img.shields.io/badge/Email-0D0221?style=for-the-badge&logo=gmail&logoColor=A78BFA)](mailto:yashkashyap1204@gmail.com)&nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode-0D0221?style=for-the-badge&logo=leetcode&logoColor=A78BFA)](https://leetcode.com/your-leetcode-username)&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-0D0221?style=for-the-badge&logo=vercel&logoColor=A78BFA)](https://your-portfolio.com)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D0221?style=for-the-badge&logo=vercel&logoColor=A78BFA)](https://my-portfolio-sand-eight-35.vercel.app/)&nbsp;
 [![Resume](https://img.shields.io/badge/Resume-0D0221?style=for-the-badge&logo=googledrive&logoColor=A78BFA)](https://drive.google.com/file/d/1RdC2OgI4chos_7tfefPQxFjq8Qc8Tizl/view?usp=drive_link)
 
 <br/><br/>
