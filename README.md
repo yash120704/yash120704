@@ -12,7 +12,9 @@
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/yashkashyap12"><img src="https://img.shields.io/badge/LinkedIn-0D0221?style=for-the-badge&logo=linkedin&logoColor=A78BFA" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/yashkashyap12">
+  <img src="https://img.shields.io/badge/LinkedIn-0D0221?style=for-the-badge&logo=Linkedin&logoColor=A78BFA" />
+</a>&nbsp;
 <a href="https://github.com/yash120704"><img src="https://img.shields.io/badge/GitHub-0D0221?style=for-the-badge&logo=github&logoColor=A78BFA" /></a>&nbsp;
 <a href="mailto:yashkashyap1204@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D0221?style=for-the-badge&logo=gmail&logoColor=A78BFA" /></a>&nbsp;
 <a href="https://drive.google.com/file/d/1RdC2OgI4chos_7tfefPQxFjq8Qc8Tizl/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-0D0221?style=for-the-badge&logo=googledrive&logoColor=A78BFA" /></a>&nbsp;
