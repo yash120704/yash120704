@@ -127,8 +127,7 @@ class YashKashyap:
 [Sensor Stream] → Kalman Filter → Autoencoder → Mahalanobis → OC-SVM → L2 Fusion → Alert
 ```
 
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/yash120704/hybrid-leak-detection)
-[![Demo](https://img.shields.io/badge/Streamlit-Live_Demo-FF4B4B?style=flat-square&logo=streamlit)](https://your-demo-link.com)
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/KV225511/DieselEngineLeakDetection.git)
 
 </details>
 
@@ -153,8 +152,8 @@ class YashKashyap:
 - 🏛️ Built a clean **3-tier architecture**: React SPA → Django REST (7 endpoints) → PostgreSQL
 - 🔐 Implemented **token-based authentication** and role-aware access control
 
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/yash120704/traffic-density-predictor)
-[![Demo](https://img.shields.io/badge/Live-Demo-0A66C2?style=flat-square&logo=vercel)](https://your-demo-link.com)
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/KV225511/TrafficCongestionPredictor.git)
+[![Demo](https://img.shields.io/badge/Live-Demo-0A66C2?style=flat-square&logo=vercel)](https://traffic-congestion-predictor.vercel.app/)
 
 </details>
 
@@ -178,7 +177,8 @@ class YashKashyap:
 - ♻️ Used `@st.cache_resource` to eliminate redundant model loading, cutting cold-start time significantly
 - 📂 Built a Streamlit UI with **CSV batch upload**, real-time extraction progress bar, and downloadable results
 
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/yash120704/product-feature-extractor)
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/yash120704/Product_Feature_Extractor.git)
+[![Demo](https://img.shields.io/badge/Live-Demo-0A66C2?style=flat-square&logo=vercel)](https://yashappuctfeatureextractor-ryrvzdub3aq6nvvcrjswps.streamlit.app/)
 
 </details>
 
@@ -202,7 +202,8 @@ class YashKashyap:
 - 🗃️ Designed a normalized **PostgreSQL schema** for users, teams, memberships, and status tracking
 - 🔄 Built efficient status-tracking queries for team join request workflows
 
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/yash120704/escape-exe)
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/yash120704/Team_Management_Website.git)
+[![Demo](https://img.shields.io/badge/Live-Demo-0A66C2?style=flat-square&logo=vercel)](https://team-management-website.vercel.app/)
 
 </details>
 
@@ -234,45 +235,6 @@ class YashKashyap:
 </div>
 
 **🎯 Leadership:** Technical Head, SCRS Club — VIT Vellore
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yash120704&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash120704&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=yash120704&theme=tokyonight&hide_border=true&background=0d1117&stroke=A78BFA&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA&sideLabels=c9d1d9&dates=c9d1d9)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=yash120704&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yash120704/yash120704/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yash120704/yash120704/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yash120704/yash120704/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
-> 💡 To enable the snake animation, set up a GitHub Action in your profile repo. [See guide →](https://github.com/Platane/snk)
 
 ---
 
