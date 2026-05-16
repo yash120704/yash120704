@@ -446,17 +446,6 @@ class YashKashyap:
 
 <br/>
 
-<table>
-<tr>
-<td width="160" align="center" valign="top">
-<br/>
-<img src="https://img.shields.io/badge/2023→2027-B.Tech-6D28D9?style=for-the-badge&labelColor=0D0221" />
-<br/><br/>
-<img src="https://img.shields.io/badge/CGPA%3A%209.52-A78BFA?style=flat-square&labelColor=130f40" />
-</td>
-<td valign="top">
-<br/>
-
 <!---------- CERTIFICATIONS ---------->
 
 <div align="center">
