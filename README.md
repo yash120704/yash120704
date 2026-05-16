@@ -1,225 +1,229 @@
 <div align="center">
 
-<!-- ============================================================ -->
-<!--                     CINEMATIC HERO                          -->
-<!-- ============================================================ -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                   CINEMATIC HERO BANNER                   -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0d0221,60:130f40,100:1a0533&height=280&section=header&text=YASH%20KASHYAP&fontSize=82&fontColor=ffffff&fontAlignY=42&desc=AI%20Engineer%20%C2%B7%20Full%20Stack%20Developer%20%C2%B7%20Systems%20Thinker&descAlignY=64&descSize=18&animation=fadeIn&stroke=7C3AED&strokeWidth=2" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,25:06010f,50:0d0221,75:130f40,100:1a0533&height=300&section=header&text=YASH%20KASHYAP&fontSize=88&fontColor=ffffff&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20Systems%20Thinker&descAlignY=63&descSize=17&animation=fadeIn&stroke=7C3AED&strokeWidth=2" />
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                   TYPING ANIMATION                        -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
 
 <br/>
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=⚡+B.Tech+CS+%40+VIT+Vellore+%7C+CGPA%3A+9.52%2F10;🤖+Building+AI-Powered+%26+Data-Driven+Systems;🌐+Full+Stack+%7C+ML+Pipelines+%7C+REST+APIs;🚀+Open+to+Internships+%26+Research+Collaborations;💡+10-Model+Ensemble+%7C+Real-Time+Anomaly+Detection" alt="Typing SVG" />
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=680&height=40&lines=B.Tech+Computer+Science+%40+VIT+Vellore+%7C+CGPA%3A+9.52;Building+10-model+AI+ensemble+for+real-time+anomaly+detection;Full+Stack+Engineer+%7C+ML+Pipelines+%7C+REST+Architecture;Open+to+Internships%2C+Research+%26+Open+Source+Collaboration)](https://git.io/typing-svg)
 
 <br/><br/>
 
-<!-- Social Badges -->
-<a href="https://www.linkedin.com/in/yashkashyap12">
-  <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=A78BFA&labelColor=0A0A0A" />
-</a>
-<a href="https://github.com/yash120704">
-  <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=A78BFA&labelColor=0A0A0A" />
-</a>
-<a href="mailto:yashkashyap1204@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-0A0A0A?style=for-the-badge&logo=gmail&logoColor=A78BFA&labelColor=0A0A0A" />
-</a>
-<a href="https://drive.google.com/file/d/1RdC2OgI4chos_7tfefPQxFjq8Qc8Tizl/view?usp=drive_link">
-  <img src="https://img.shields.io/badge/Résumé-0A0A0A?style=for-the-badge&logo=googledrive&logoColor=A78BFA&labelColor=0A0A0A" />
-</a>
-<a href="https://leetcode.com/your-leetcode-username">
-  <img src="https://img.shields.io/badge/LeetCode-0A0A0A?style=for-the-badge&logo=leetcode&logoColor=A78BFA&labelColor=0A0A0A" />
-</a>
+<!-- Social Links -->
+<a href="https://www.linkedin.com/in/yashkashyap12"><img src="https://img.shields.io/badge/LinkedIn-0D0221?style=for-the-badge&logo=linkedin&logoColor=A78BFA" /></a>&nbsp;
+<a href="https://github.com/yash120704"><img src="https://img.shields.io/badge/GitHub-0D0221?style=for-the-badge&logo=github&logoColor=A78BFA" /></a>&nbsp;
+<a href="mailto:yashkashyap1204@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D0221?style=for-the-badge&logo=gmail&logoColor=A78BFA" /></a>&nbsp;
+<a href="https://drive.google.com/file/d/1RdC2OgI4chos_7tfefPQxFjq8Qc8Tizl/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-0D0221?style=for-the-badge&logo=googledrive&logoColor=A78BFA" /></a>&nbsp;
+<a href="https://leetcode.com/your-leetcode-username"><img src="https://img.shields.io/badge/LeetCode-0D0221?style=for-the-badge&logo=leetcode&logoColor=A78BFA" /></a>
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=yash120704&style=for-the-badge&color=7C3AED&labelColor=0D0221&label=VISITORS)
-&nbsp;
-![GitHub followers](https://img.shields.io/github/followers/yash120704?style=for-the-badge&color=6D28D9&labelColor=0D0221&label=FOLLOWERS)
+<img src="https://komarev.com/ghpvc/?username=yash120704&style=for-the-badge&color=6D28D9&labelColor=0D0221&label=PROFILE+VIEWS" />&nbsp;
+<img src="https://img.shields.io/github/followers/yash120704?style=for-the-badge&color=6D28D9&labelColor=0D0221&label=FOLLOWERS" />
 
 </div>
 
 <br/>
 
-<!-- ============================================================ -->
-<!--                   GLOWING DIVIDER                           -->
-<!-- ============================================================ -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                   GLOWING SECTION DIVIDER                 -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0221,50:1a0533,100:0D0221&height=2&section=header" />
 
 <br/>
 
-<!-- ============================================================ -->
-<!--                   WHO AM I — CODE CARD                      -->
-<!-- ============================================================ -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                   IDENTITY BLOCK                          -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## `< WHO AM I />`
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  WHO AM I
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
 
 </div>
 
 ```python
 #!/usr/bin/env python3
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 #  YASH KASHYAP  ·  AI Engineer  ·  Full Stack Developer
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 class YashKashyap:
-    def __init__(self):
-        self.university  = "Vellore Institute of Technology (VIT)"
-        self.degree      = "B.Tech — Computer Science Engineering"
-        self.cgpa        = 9.52  # While building 4 production projects
-        self.batch       = "2023 → 2027"
-        self.location    = "India 🇮🇳"
+    identity = {
+        "university" : "Vellore Institute of Technology",
+        "degree"     : "B.Tech — Computer Science Engineering",
+        "cgpa"       : 9.52,                   # while shipping 4 production projects
+        "batch"      : "2023 → 2027",
+        "location"   : "India",
+    }
 
-        self.stack = {
-            "ai_ml"      : ["Scikit-learn", "HuggingFace", "FLAN-T5", "Ensemble Models"],
-            "backend"    : ["Django", "FastAPI", "Node.js", "Express.js", "WebSockets"],
-            "frontend"   : ["React", "Streamlit", "HTML5", "CSS3"],
-            "databases"  : ["PostgreSQL", "MySQL", "Supabase"],
-            "languages"  : ["Python", "Java", "JavaScript", "C/C++", "SQL"],
-        }
+    stack = {
+        "ai_ml"    : ["Scikit-learn", "HuggingFace", "FLAN-T5", "Ensemble Modeling"],
+        "backend"  : ["Django", "FastAPI", "Node.js", "Express.js", "WebSockets"],
+        "frontend" : ["React", "Streamlit", "HTML5", "CSS3"],
+        "data"     : ["PostgreSQL", "MySQL", "Supabase"],
+        "languages": ["Python", "Java", "JavaScript", "C/C++", "SQL"],
+    }
 
-        self.currently  = {
-            "🔭 building"  : "Hybrid AI pipelines + Real-time anomaly detection systems",
-            "🌱 learning"  : "LLM fine-tuning · MLOps · System Design at scale",
-            "⚡ exploring" : "Vector databases · Distributed systems · Agentic AI",
-            "🚀 open_to"   : ["Internships", "Research", "Open Source", "Collaborations"],
-        }
+    now = {
+        "building"   : "Hybrid AI pipelines · Real-time industrial anomaly detection",
+        "learning"   : "LLM fine-tuning · MLOps · Distributed System Design",
+        "exploring"  : "Vector databases · Agentic AI · Event-driven architectures",
+        "open_to"    : ["SDE Internships", "ML Research", "Open Source"],
+    }
 
     def philosophy(self) -> str:
         return (
             "I build systems that think — ML pipelines, full-stack platforms, "
-            "and everything in between. Clean code. Real impact. Zero compromise."
+            "and everything in between. Clean code. Real impact. No shortcuts."
         )
-
-yash = YashKashyap()
-print(yash.philosophy())
-# → "I build systems that think — ML pipelines, full-stack platforms,
-#    and everything in between. Clean code. Real impact. Zero compromise."
 ```
 
 <br/>
 
-<!-- ============================================================ -->
-<!--              CURRENTLY BUILDING — STATUS CARDS              -->
-<!-- ============================================================ -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                   STATUS BOARD                            -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## `⚡ STATUS BOARD`
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0221,50:1a0533,100:0D0221&height=2&section=header" />
 
 <br/>
 
-| &nbsp;&nbsp;**SIGNAL**&nbsp;&nbsp; | &nbsp;&nbsp;**TRANSMISSION**&nbsp;&nbsp; |
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  CURRENT STATUS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+<br/>
+
+| **SIGNAL** | **TRANSMISSION** |
 |:---:|:---|
-| 🔭 **BUILDING** | Hybrid AI anomaly detection · Research portal systems |
-| 🌱 **LEARNING** | LLM fine-tuning · MLOps pipelines · Distributed system design |
-| ⚡ **EXPLORING** | Agentic AI · Vector embeddings · Real-time data architectures |
-| 🧠 **INTERESTED IN** | Applied ML · Generative AI · Backend systems at scale |
-| 🚀 **OPEN TO** | SDE Internships · Research roles · Open source collabs |
-| 💬 **ASK ME ABOUT** | Python · Django · React · ML Pipelines · REST APIs |
+| `BUILDING` | Hybrid AI anomaly detection system · University research portal |
+| `LEARNING` | LLM fine-tuning · MLOps pipelines · System design at scale |
+| `EXPLORING` | Agentic AI · Vector embeddings · Real-time data architectures |
+| `INTERESTED IN` | Applied ML research · Generative AI · High-performance backends |
+| `OPEN TO` | SDE Internships · Research roles · Open source collaboration |
+| `ASK ME ABOUT` | Python · Django · React · ML Ensembles · REST API design |
 
 </div>
 
 <br/>
 
-<!-- ============================================================ -->
-<!--                   TECH STACK — VISUAL GRID                  -->
-<!-- ============================================================ -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                   TECH ARSENAL                            -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## `🛠 TECH ARSENAL`
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0221,50:1a0533,100:0D0221&height=2&section=header" />
 
 <br/>
 
-### ◈ Languages
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  TECH ARSENAL
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
 
 <br/>
 
-![Python](https://img.shields.io/badge/Python-0D0221?style=for-the-badge&logo=python&logoColor=A78BFA)
-![Java](https://img.shields.io/badge/Java-0D0221?style=for-the-badge&logo=openjdk&logoColor=A78BFA)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D0221?style=for-the-badge&logo=javascript&logoColor=A78BFA)
-![C++](https://img.shields.io/badge/C++-0D0221?style=for-the-badge&logo=cplusplus&logoColor=A78BFA)
+**◈ &nbsp; Languages**
+
+<br/>
+
+![Python](https://img.shields.io/badge/Python-0D0221?style=for-the-badge&logo=python&logoColor=A78BFA)&nbsp;
+![Java](https://img.shields.io/badge/Java-0D0221?style=for-the-badge&logo=openjdk&logoColor=A78BFA)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-0D0221?style=for-the-badge&logo=javascript&logoColor=A78BFA)&nbsp;
+![C++](https://img.shields.io/badge/C++-0D0221?style=for-the-badge&logo=cplusplus&logoColor=A78BFA)&nbsp;
 ![SQL](https://img.shields.io/badge/SQL-0D0221?style=for-the-badge&logo=postgresql&logoColor=A78BFA)
 
+<br/><br/>
+
+**◈ &nbsp; AI / Machine Learning**
+
 <br/>
 
-### ◈ AI / Machine Learning
-
-<br/>
-
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0D0221?style=for-the-badge&logo=scikit-learn&logoColor=A78BFA)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-0D0221?style=for-the-badge&logo=huggingface&logoColor=A78BFA)
-![Pandas](https://img.shields.io/badge/Pandas-0D0221?style=for-the-badge&logo=pandas&logoColor=A78BFA)
-![NumPy](https://img.shields.io/badge/NumPy-0D0221?style=for-the-badge&logo=numpy&logoColor=A78BFA)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0D0221?style=for-the-badge&logo=scikit-learn&logoColor=A78BFA)&nbsp;
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0D0221?style=for-the-badge&logo=huggingface&logoColor=A78BFA)&nbsp;
+![Pandas](https://img.shields.io/badge/Pandas-0D0221?style=for-the-badge&logo=pandas&logoColor=A78BFA)&nbsp;
+![NumPy](https://img.shields.io/badge/NumPy-0D0221?style=for-the-badge&logo=numpy&logoColor=A78BFA)&nbsp;
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-0D0221?style=for-the-badge&logo=plotly&logoColor=A78BFA)
 
+<br/><br/>
+
+**◈ &nbsp; Backend**
+
 <br/>
 
-### ◈ Backend
-
-<br/>
-
-![Django](https://img.shields.io/badge/Django-0D0221?style=for-the-badge&logo=django&logoColor=A78BFA)
-![FastAPI](https://img.shields.io/badge/FastAPI-0D0221?style=for-the-badge&logo=fastapi&logoColor=A78BFA)
-![Node.js](https://img.shields.io/badge/Node.js-0D0221?style=for-the-badge&logo=node.js&logoColor=A78BFA)
-![Express.js](https://img.shields.io/badge/Express.js-0D0221?style=for-the-badge&logo=express&logoColor=A78BFA)
-![Django REST](https://img.shields.io/badge/DRF-0D0221?style=for-the-badge&logo=django&logoColor=A78BFA)
+![Django](https://img.shields.io/badge/Django-0D0221?style=for-the-badge&logo=django&logoColor=A78BFA)&nbsp;
+![FastAPI](https://img.shields.io/badge/FastAPI-0D0221?style=for-the-badge&logo=fastapi&logoColor=A78BFA)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-0D0221?style=for-the-badge&logo=node.js&logoColor=A78BFA)&nbsp;
+![Express.js](https://img.shields.io/badge/Express.js-0D0221?style=for-the-badge&logo=express&logoColor=A78BFA)&nbsp;
+![DRF](https://img.shields.io/badge/Django_REST-0D0221?style=for-the-badge&logo=django&logoColor=A78BFA)&nbsp;
 ![WebSockets](https://img.shields.io/badge/WebSockets-0D0221?style=for-the-badge&logo=socket.io&logoColor=A78BFA)
 
+<br/><br/>
+
+**◈ &nbsp; Frontend**
+
 <br/>
 
-### ◈ Frontend
-
-<br/>
-
-![React](https://img.shields.io/badge/React-0D0221?style=for-the-badge&logo=react&logoColor=A78BFA)
-![Streamlit](https://img.shields.io/badge/Streamlit-0D0221?style=for-the-badge&logo=streamlit&logoColor=A78BFA)
-![HTML5](https://img.shields.io/badge/HTML5-0D0221?style=for-the-badge&logo=html5&logoColor=A78BFA)
+![React](https://img.shields.io/badge/React-0D0221?style=for-the-badge&logo=react&logoColor=A78BFA)&nbsp;
+![Streamlit](https://img.shields.io/badge/Streamlit-0D0221?style=for-the-badge&logo=streamlit&logoColor=A78BFA)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-0D0221?style=for-the-badge&logo=html5&logoColor=A78BFA)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-0D0221?style=for-the-badge&logo=css3&logoColor=A78BFA)
 
+<br/><br/>
+
+**◈ &nbsp; Data & Infrastructure**
+
 <br/>
 
-### ◈ Databases & Infrastructure
-
-<br/>
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D0221?style=for-the-badge&logo=postgresql&logoColor=A78BFA)
-![MySQL](https://img.shields.io/badge/MySQL-0D0221?style=for-the-badge&logo=mysql&logoColor=A78BFA)
-![Supabase](https://img.shields.io/badge/Supabase-0D0221?style=for-the-badge&logo=supabase&logoColor=A78BFA)
-![Git](https://img.shields.io/badge/Git-0D0221?style=for-the-badge&logo=git&logoColor=A78BFA)
-![Postman](https://img.shields.io/badge/Postman-0D0221?style=for-the-badge&logo=postman&logoColor=A78BFA)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D0221?style=for-the-badge&logo=postgresql&logoColor=A78BFA)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-0D0221?style=for-the-badge&logo=mysql&logoColor=A78BFA)&nbsp;
+![Supabase](https://img.shields.io/badge/Supabase-0D0221?style=for-the-badge&logo=supabase&logoColor=A78BFA)&nbsp;
+![Git](https://img.shields.io/badge/Git-0D0221?style=for-the-badge&logo=git&logoColor=A78BFA)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-0D0221?style=for-the-badge&logo=postman&logoColor=A78BFA)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-0D0221?style=for-the-badge&logo=github&logoColor=A78BFA)
 
 </div>
 
 <br/>
 
-<!-- ============================================================ -->
-<!--               FEATURED PROJECTS — PREMIUM CARDS             -->
-<!-- ============================================================ -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                   FEATURED PROJECTS                       -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## `🚀 FEATURED PROJECTS`
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0221,50:1a0533,100:0D0221&height=2&section=header" />
 
-*Production-grade systems. Real-world impact. Zero shortcuts.*
+<br/>
+
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  FEATURED PROJECTS  ·  Production-grade. Real-world impact.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
 
 </div>
 
@@ -229,71 +233,74 @@ print(yash.philosophy())
 
 <details open>
 <summary>
-<img src="https://img.shields.io/badge/01-FLAGSHIP-7C3AED?style=flat-square" />
-&nbsp;<b>Hybrid Leak Detection System</b>&nbsp;
-<img src="https://img.shields.io/badge/AI%20%7C%20IoT%20%7C%20Real--Time-0D0221?style=flat-square&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/01──FLAGSHIP-0D0221?style=for-the-badge&logoColor=A78BFA" />&nbsp;
+<b>Hybrid Leak Detection System</b>&nbsp;
+<img src="https://img.shields.io/badge/AI%20·%20IoT%20·%20Real--Time-130f40?style=flat-square" />
 </summary>
 
 <br/>
 
-> ### 🔍 Industrial AI — Anomaly Detection for Diesel Engines
-> *10-model ensemble achieving real-time fault detection across 40K sensor samples*
+<div align="center">
+
+> **Industrial AI — 10-Model Ensemble Anomaly Detection for Diesel Engines**
+> *Real-time fault detection across 40,000 sensor samples*
+
+</div>
 
 <br/>
 
 ```
-╔══════════════════════════════════════════════════════════════════════╗
-║  DETECTION PIPELINE — 5-STAGE REAL-TIME PROCESSING                 ║
-╠══════════════════════════════════════════════════════════════════════╣
-║                                                                      ║
-║  [Sensor Stream]                                                     ║
-║       │                                                              ║
-║       ▼                                                              ║
-║  ┌─────────────┐    ┌──────────────┐    ┌──────────────────────┐   ║
-║  │ Kalman      │───▶│ 4×Autoencoder│───▶│ Mahalanobis Distance │   ║
-║  │ Filter      │    │ (Denoising)  │    │ (Statistical Bound)  │   ║
-║  └─────────────┘    └──────────────┘    └──────────────────────┘   ║
-║                                                   │                  ║
-║                                                   ▼                  ║
-║                               ┌───────────────────────────────┐     ║
-║                               │  OC-SVM  →  L2 Fusion Layer   │     ║
-║                               │  (Unified Decision Boundary)   │     ║
-║                               └───────────────────────────────┘     ║
-║                                                   │                  ║
-║                                                   ▼                  ║
-║                                          ⚡ REAL-TIME ALERT         ║
-╚══════════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════════╗
+║  5-STAGE REAL-TIME DETECTION PIPELINE                                   ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║                                                                          ║
+║  [Live Sensor Stream]                                                    ║
+║         │                                                                ║
+║         ▼                                                                ║
+║  ┌──────────────┐     ┌─────────────────┐     ┌──────────────────────┐  ║
+║  │  Kalman      │────▶│  4× Autoencoder │────▶│  Mahalanobis         │  ║
+║  │  Filter      │     │  (Denoising)    │     │  Distance Scoring    │  ║
+║  └──────────────┘     └─────────────────┘     └──────────────────────┘  ║
+║                                                          │               ║
+║                                                          ▼               ║
+║                                          ┌───────────────────────────┐  ║
+║                                          │  OC-SVM ──▶ L2 Fusion     │  ║
+║                                          │  (Unified Decision Layer)  │  ║
+║                                          └───────────────────────────┘  ║
+║                                                          │               ║
+║                                                          ▼               ║
+║                                               ▸ REAL-TIME ALERT         ║
+╚══════════════════════════════════════════════════════════════════════════╝
 ```
 
 <br/>
 
-| 📊 Metric | 🔢 Value |
+| Dimension | Value |
 |:---|:---|
-| Dataset Size | 40,000 samples · 12 sensor features |
+| Dataset | 40,000 samples · 12 sensor features |
 | Model Ensemble | 4 Autoencoders + OC-SVM + Mahalanobis = **10-model fusion** |
-| Architecture | `Kalman → Autoencoder → Mahalanobis → OC-SVM → L2 Fusion` |
-| Interface | Live Streamlit dashboard + WebSocket streaming |
-| Innovation | Real-time anomaly fusion across heterogeneous signal sources |
+| Pipeline | `Kalman → Autoencoder → Mahalanobis → OC-SVM → L2 Fusion` |
+| Interface | Live Streamlit dashboard + Django Channels / WebSocket streaming |
+| Innovation | Heterogeneous signal fusion into a unified anomaly decision boundary |
 
 <br/>
 
-**⚙️ Engineering Highlights**
+**Engineering Highlights**
 
-- 🏗️ Architected **5-stage real-time detection pipeline** with layered signal fusion
-- 📡 Integrated **Django Channels + WebSockets** for live sensor data ingestion & alerting
-- 📊 Built an interactive **Streamlit monitoring dashboard** with live anomaly visualization
-- ⚡ Engineered a **L2 fusion scoring layer** combining multiple anomaly signals into a unified decision boundary
+- Architected a **5-stage real-time pipeline** with layered, heterogeneous signal processing
+- Integrated **Django Channels + WebSockets** for continuous sensor ingestion and live alerting
+- Built a **Streamlit monitoring dashboard** with real-time anomaly visualization
+- Engineered an **L2 fusion scoring layer** combining all signal sources into one decision surface
 
 <br/>
 
-**Stack:**
 ![Python](https://img.shields.io/badge/Python-0D0221?style=flat-square&logo=python&logoColor=A78BFA)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0D0221?style=flat-square&logo=scikit-learn&logoColor=A78BFA)
 ![Django](https://img.shields.io/badge/Django-0D0221?style=flat-square&logo=django&logoColor=A78BFA)
 ![Streamlit](https://img.shields.io/badge/Streamlit-0D0221?style=flat-square&logo=streamlit&logoColor=A78BFA)
 ![WebSockets](https://img.shields.io/badge/WebSockets-0D0221?style=flat-square&logo=socket.io&logoColor=A78BFA)
 
-[![View Repo](https://img.shields.io/badge/→%20View%20Repository-181717?style=for-the-badge&logo=github&logoColor=A78BFA)](https://github.com/KV225511/DieselEngineLeakDetection.git)
+&nbsp;[![View Repository](https://img.shields.io/badge/View_Repository-0D0221?style=for-the-badge&logo=github&logoColor=A78BFA)](https://github.com/KV225511/DieselEngineLeakDetection.git)
 
 </details>
 
@@ -301,342 +308,382 @@ print(yash.philosophy())
 
 <details open>
 <summary>
-<img src="https://img.shields.io/badge/02-PRODUCTION-6D28D9?style=flat-square" />
-&nbsp;<b>Traffic Density Prediction System</b>&nbsp;
-<img src="https://img.shields.io/badge/Full%20Stack%20%7C%20ML%20%7C%20REST-0D0221?style=flat-square&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/02──FULL%20STACK-0D0221?style=for-the-badge&logoColor=A78BFA" />&nbsp;
+<b>Traffic Density Prediction System</b>&nbsp;
+<img src="https://img.shields.io/badge/ML%20·%20REST%20·%20React-130f40?style=flat-square" />
 </summary>
-
-<br/>
-
-> ### 🚦 Urban Intelligence — ML-Powered Traffic Forecasting at City Scale
-> *81.5% accuracy across 62 Delhi traffic nodes with 0.97 F1-score*
-
-<br/>
-
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║  3-TIER PLATFORM ARCHITECTURE                                       ║
-╠══════════════════════════════════════════════════════════════════════╣
-║                                                                      ║
-║  LAYER 1 — FRONTEND                                                  ║
-║  ┌──────────────────────────────────────────────────────────────┐   ║
-║  │                React SPA (Traffic Visualizer)                 │   ║
-║  └───────────────────────┬──────────────────────────────────────┘   ║
-║                           │  7 REST Endpoints                        ║
-║  LAYER 2 — BACKEND        ▼                                          ║
-║  ┌──────────────────────────────────────────────────────────────┐   ║
-║  │  Django REST API  →  asyncio.gather (Parallel API calls)     │   ║
-║  │  TomTom Traffic API + Open-Meteo Weather API                  │   ║
-║  │  Random Forest Classifier (81.5% acc · F1: 0.97)             │   ║
-║  └───────────────────────┬──────────────────────────────────────┘   ║
-║                           │  Token Auth + RBAC                       ║
-║  LAYER 3 — DATA           ▼                                          ║
-║  ┌──────────────────────────────────────────────────────────────┐   ║
-║  │         PostgreSQL  (62 Node Traffic History)                 │   ║
-║  └──────────────────────────────────────────────────────────────┘   ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
-
-<br/>
-
-| 📊 Metric | 🔢 Value |
-|:---|:---|
-| ML Accuracy | **81.5%** · F1-Score: **0.97** |
-| Coverage | **62** Delhi traffic monitoring nodes |
-| API Design | 7 REST endpoints · Token-based auth · RBAC |
-| Performance | `asyncio.gather` for parallel multi-source API calls |
-| Live Demo | Deployed on Vercel |
-
-<br/>
-
-**⚙️ Engineering Highlights**
-
-- 🌲 Trained **Random Forest classifier** achieving 81.5% accuracy with a near-perfect 0.97 F1-score
-- ⚡ `asyncio.gather` enables **concurrent API calls** to TomTom Traffic + Open-Meteo — zero sequential blocking
-- 🏛️ Clean **3-tier architecture**: React SPA → Django REST → PostgreSQL
-- 🔐 **Token-based auth + role-aware access control** throughout the platform
-
-<br/>
-
-**Stack:**
-![React](https://img.shields.io/badge/React-0D0221?style=flat-square&logo=react&logoColor=A78BFA)
-![Django](https://img.shields.io/badge/Django-0D0221?style=flat-square&logo=django&logoColor=A78BFA)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D0221?style=flat-square&logo=postgresql&logoColor=A78BFA)
-![Python](https://img.shields.io/badge/Python-0D0221?style=flat-square&logo=python&logoColor=A78BFA)
-
-[![View Repo](https://img.shields.io/badge/→%20View%20Repository-181717?style=for-the-badge&logo=github&logoColor=A78BFA)](https://github.com/KV225511/TrafficCongestionPredictor.git)
-[![Live Demo](https://img.shields.io/badge/→%20Live%20Demo-0D0221?style=for-the-badge&logo=vercel&logoColor=A78BFA)](https://traffic-congestion-predictor.vercel.app/)
-
-</details>
-
----
-
-<details>
-<summary>
-<img src="https://img.shields.io/badge/03-NLP-5B21B6?style=flat-square" />
-&nbsp;<b>Product Feature Extraction</b>&nbsp;
-<img src="https://img.shields.io/badge/NLP%20%7C%20Zero--Shot%20%7C%20LLM-0D0221?style=flat-square&logoColor=A78BFA" />
-</summary>
-
-<br/>
-
-> ### 🤖 NLP Intelligence — Zero-Shot Feature Mining from Customer Reviews
-> *FLAN-T5-base (248M parameters) · No labeled training data required*
-
-<br/>
-
-| 📊 Metric | 🔢 Value |
-|:---|:---|
-| Model | FLAN-T5-base · **248M parameters** |
-| Context Window | 512-token customer review input |
-| Pipeline | **7-step zero-shot extraction** workflow |
-| Innovation | No labeled training data — pure zero-shot generalization |
-| Interface | Streamlit UI · CSV batch upload · Downloadable results |
-
-<br/>
-
-**⚙️ Engineering Highlights**
-
-- 🧠 Designed a **7-step zero-shot extraction workflow** — no labeled data, no fine-tuning, fully generalized
-- ♻️ `@st.cache_resource` eliminates redundant model loading — significant cold-start latency reduction
-- 📂 Built a Streamlit UI with **batch CSV upload**, live extraction progress, and one-click result export
-
-<br/>
-
-**Stack:**
-![Python](https://img.shields.io/badge/Python-0D0221?style=flat-square&logo=python&logoColor=A78BFA)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-0D0221?style=flat-square&logo=huggingface&logoColor=A78BFA)
-![Streamlit](https://img.shields.io/badge/Streamlit-0D0221?style=flat-square&logo=streamlit&logoColor=A78BFA)
-
-[![View Repo](https://img.shields.io/badge/→%20View%20Repository-181717?style=for-the-badge&logo=github&logoColor=A78BFA)](https://github.com/yash120704/Product_Feature_Extractor.git)
-[![Live Demo](https://img.shields.io/badge/→%20Live%20Demo-0D0221?style=for-the-badge&logo=vercel&logoColor=A78BFA)](https://yashappuctfeatureextractor-ryrvzdub3aq6nvvcrjswps.streamlit.app/)
-
-</details>
-
----
-
-<details>
-<summary>
-<img src="https://img.shields.io/badge/04-PLATFORM-4C1D95?style=flat-square" />
-&nbsp;<b>Escape.exe — Team Management Platform</b>&nbsp;
-<img src="https://img.shields.io/badge/RBAC%20%7C%20Full%20Stack%20%7C%20Auth-0D0221?style=flat-square&logoColor=A78BFA" />
-</summary>
-
-<br/>
-
-> ### 🎮 SaaS Platform — RBAC Team Collaboration for 200+ Users
-> *Domain-gated Supabase auth · 3-level role hierarchy · Normalized PostgreSQL schema*
-
-<br/>
-
-| 📊 Metric | 🔢 Value |
-|:---|:---|
-| Active Users | **200+** university members |
-| Auth System | Supabase Auth · Domain-restricted `@vit.ac.in` signup |
-| Access Control | **3-level RBAC**: Admin → Manager → Member |
-| Database | Normalized PostgreSQL: users, teams, memberships, status |
-| Workflow | Efficient join request status-tracking query system |
-
-<br/>
-
-**⚙️ Engineering Highlights**
-
-- 🔐 **3-level RBAC** with domain-gated Supabase authentication — only `@vit.ac.in` emails permitted
-- 🗃️ Designed a fully normalized **PostgreSQL schema** covering users, teams, memberships, and workflows
-- 🔄 Built **status-tracking queries** for real-time team join request state management
-
-<br/>
-
-**Stack:**
-![Node.js](https://img.shields.io/badge/Node.js-0D0221?style=flat-square&logo=node.js&logoColor=A78BFA)
-![Express](https://img.shields.io/badge/Express-0D0221?style=flat-square&logo=express&logoColor=A78BFA)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D0221?style=flat-square&logo=postgresql&logoColor=A78BFA)
-![Supabase](https://img.shields.io/badge/Supabase-0D0221?style=flat-square&logo=supabase&logoColor=A78BFA)
-
-[![View Repo](https://img.shields.io/badge/→%20View%20Repository-181717?style=for-the-badge&logo=github&logoColor=A78BFA)](https://github.com/yash120704/Team_Management_Website.git)
-[![Live Demo](https://img.shields.io/badge/→%20Live%20Demo-0D0221?style=for-the-badge&logo=vercel&logoColor=A78BFA)](https://team-management-website.vercel.app/)
-
-</details>
-
-<br/>
-
-<!-- ============================================================ -->
-<!--               EXPERIENCE TIMELINE                           -->
-<!-- ============================================================ -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
 <div align="center">
 
-## `💼 EXPERIENCE`
+> **Urban Intelligence — City-Scale ML Traffic Forecasting for 62 Delhi Nodes**
+> *81.5% accuracy · 0.97 F1-score · Parallel async API architecture*
 
 </div>
 
 <br/>
 
 ```
- 2025
-  │
-  ▼
- ┌─────────────────────────────────────────────────────────────────────┐
- │  🏛️  WEB DEVELOPMENT INTERN — NIT Rourkela                        │
- │       Summer 2025  ·  React · Node.js · REST APIs · UI/UX          │
- ├─────────────────────────────────────────────────────────────────────┤
- │                                                                     │
- │  ◆ Built 3 React/Node.js frontend modules for a university         │
- │    research lab portal — end-to-end ownership                       │
- │                                                                     │
- │  ◆ Integrated REST APIs for seamless client-to-backend             │
- │    data synchronization across all modules                          │
- │                                                                     │
- │  ◆ Improved UI responsiveness across 10+ pages — reduced           │
- │    inconsistencies by ~20%, aligned with WCAG accessibility        │
- │    standards                                                        │
- └─────────────────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════════════════╗
+║  3-TIER PLATFORM ARCHITECTURE                                           ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║                                                                          ║
+║  TIER 1 — PRESENTATION                                                   ║
+║  ┌────────────────────────────────────────────────────────────────────┐  ║
+║  │              React SPA — Traffic Visualization Interface           │  ║
+║  └───────────────────────────────┬────────────────────────────────────┘  ║
+║                                  │  7 REST Endpoints · Token Auth        ║
+║  TIER 2 — APPLICATION            ▼                                       ║
+║  ┌────────────────────────────────────────────────────────────────────┐  ║
+║  │  Django REST API                                                   │  ║
+║  │  asyncio.gather ──▶ TomTom Traffic API + Open-Meteo Weather API   │  ║
+║  │  Random Forest Classifier  [Accuracy: 81.5%  ·  F1: 0.97]        │  ║
+║  └───────────────────────────────┬────────────────────────────────────┘  ║
+║                                  │  RBAC · Role-aware queries            ║
+║  TIER 3 — DATA                   ▼                                       ║
+║  ┌────────────────────────────────────────────────────────────────────┐  ║
+║  │         PostgreSQL  ·  62 Node Traffic History & Predictions       │  ║
+║  └────────────────────────────────────────────────────────────────────┘  ║
+╚══════════════════════════════════════════════════════════════════════════╝
 ```
 
 <br/>
 
-<!-- ============================================================ -->
-<!--               GITHUB STATS                                  -->
-<!-- ============================================================ -->
+| Dimension | Value |
+|:---|:---|
+| ML Performance | **81.5% accuracy** · F1-Score: **0.97** |
+| Coverage | **62** Delhi traffic monitoring nodes |
+| API Design | 7 REST endpoints · Token-based auth · Role-aware access control |
+| Performance | `asyncio.gather` for zero-blocking parallel multi-source API calls |
+| Deployment | Live on Vercel |
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
+
+**Engineering Highlights**
+
+- Trained a **Random Forest classifier** achieving 81.5% accuracy and near-perfect 0.97 F1-score
+- `asyncio.gather` enables **fully concurrent API calls** to TomTom + Open-Meteo — zero sequential blocking
+- Clean **3-tier separation**: React SPA → Django REST API → PostgreSQL — no layer bleeding
+- **Token-based auth + RBAC** across all endpoints with role-aware data access
+
+<br/>
+
+![React](https://img.shields.io/badge/React-0D0221?style=flat-square&logo=react&logoColor=A78BFA)
+![Django](https://img.shields.io/badge/Django-0D0221?style=flat-square&logo=django&logoColor=A78BFA)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D0221?style=flat-square&logo=postgresql&logoColor=A78BFA)
+![Python](https://img.shields.io/badge/Python-0D0221?style=flat-square&logo=python&logoColor=A78BFA)
+
+&nbsp;[![View Repository](https://img.shields.io/badge/View_Repository-0D0221?style=for-the-badge&logo=github&logoColor=A78BFA)](https://github.com/KV225511/TrafficCongestionPredictor.git)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-130f40?style=for-the-badge&logo=vercel&logoColor=A78BFA)](https://traffic-congestion-predictor.vercel.app/)
+
+</details>
+
+---
+
+<details>
+<summary>
+<img src="https://img.shields.io/badge/03──NLP-0D0221?style=for-the-badge&logoColor=A78BFA" />&nbsp;
+<b>Product Feature Extraction</b>&nbsp;
+<img src="https://img.shields.io/badge/Zero--Shot%20·%20FLAN--T5%20·%20NLP-130f40?style=flat-square" />
+</summary>
 
 <br/>
 
 <div align="center">
 
-## `📊 GITHUB ANALYTICS`
+> **NLP Intelligence — Zero-Shot Attribute Mining from Customer Reviews**
+> *FLAN-T5-base (248M parameters) · No labeled data · Fully generalized*
+
+</div>
 
 <br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yash120704&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0221&title_color=A78BFA&icon_color=7C3AED&text_color=E2E8F0&ring_color=6D28D9" />
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash120704&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0D0221&title_color=A78BFA&text_color=E2E8F0" />
+| Dimension | Value |
+|:---|:---|
+| Model | FLAN-T5-base · **248M parameters** |
+| Context Window | 512-token customer review input |
+| Pipeline Design | **7-step zero-shot extraction** workflow |
+| Innovation | No labeled training data — pure zero-shot generalization |
+| Interface | Streamlit · CSV batch upload · Progress tracking · One-click export |
+
+<br/>
+
+**Engineering Highlights**
+
+- Designed a **7-step zero-shot workflow** requiring no labeled data and no fine-tuning
+- `@st.cache_resource` eliminates redundant model loading — measurable cold-start reduction
+- Batch CSV upload with real-time extraction progress and downloadable result export
+
+<br/>
+
+![Python](https://img.shields.io/badge/Python-0D0221?style=flat-square&logo=python&logoColor=A78BFA)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0D0221?style=flat-square&logo=huggingface&logoColor=A78BFA)
+![Streamlit](https://img.shields.io/badge/Streamlit-0D0221?style=flat-square&logo=streamlit&logoColor=A78BFA)
+
+&nbsp;[![View Repository](https://img.shields.io/badge/View_Repository-0D0221?style=for-the-badge&logo=github&logoColor=A78BFA)](https://github.com/yash120704/Product_Feature_Extractor.git)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-130f40?style=for-the-badge&logo=vercel&logoColor=A78BFA)](https://yashappuctfeatureextractor-ryrvzdub3aq6nvvcrjswps.streamlit.app/)
+
+</details>
+
+---
+
+<details>
+<summary>
+<img src="https://img.shields.io/badge/04──PLATFORM-0D0221?style=for-the-badge&logoColor=A78BFA" />&nbsp;
+<b>Escape.exe — Team Management Platform</b>&nbsp;
+<img src="https://img.shields.io/badge/RBAC%20·%20Auth%20·%20PostgreSQL-130f40?style=flat-square" />
+</summary>
+
+<br/>
+
+<div align="center">
+
+> **Full-Stack SaaS — RBAC Team Collaboration for 200+ University Users**
+> *Domain-gated Supabase auth · 3-level role hierarchy · Normalized PostgreSQL schema*
+
+</div>
+
+<br/>
+
+| Dimension | Value |
+|:---|:---|
+| Active Users | **200+** verified university members |
+| Auth System | Supabase Auth · Domain-restricted `@vit.ac.in` signup |
+| Access Control | **3-level RBAC** — Admin → Manager → Member |
+| Database Design | Normalized PostgreSQL: users, teams, memberships, workflow states |
+| Workflow | Efficient join-request status tracking with optimized queries |
+
+<br/>
+
+**Engineering Highlights**
+
+- **3-level RBAC** with domain-gated Supabase Auth — only `@vit.ac.in` emails provisioned
+- Fully normalized **PostgreSQL schema** across users, teams, memberships, and state transitions
+- **Optimized status-tracking queries** for real-time join-request workflow management
+
+<br/>
+
+![Node.js](https://img.shields.io/badge/Node.js-0D0221?style=flat-square&logo=node.js&logoColor=A78BFA)
+![Express](https://img.shields.io/badge/Express-0D0221?style=flat-square&logo=express&logoColor=A78BFA)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D0221?style=flat-square&logo=postgresql&logoColor=A78BFA)
+![Supabase](https://img.shields.io/badge/Supabase-0D0221?style=flat-square&logo=supabase&logoColor=A78BFA)
+
+&nbsp;[![View Repository](https://img.shields.io/badge/View_Repository-0D0221?style=for-the-badge&logo=github&logoColor=A78BFA)](https://github.com/yash120704/Team_Management_Website.git)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-130f40?style=for-the-badge&logo=vercel&logoColor=A78BFA)](https://team-management-website.vercel.app/)
+
+</details>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                   EXPERIENCE TIMELINE                     -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0221,50:1a0533,100:0D0221&height=2&section=header" />
+
+<br/>
+
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  EXPERIENCE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+</div>
+
+<br/>
+
+```
+ TIMELINE ─────────────────────────────────────────────────────────────────
+
+  2025   ◈  WEB DEVELOPMENT INTERN
+         │  National Institute of Technology, Rourkela
+         │  Summer 2025  ·  React · Node.js · REST APIs · UI/UX
+         │
+         │  ┌─────────────────────────────────────────────────────────────┐
+         │  │                                                             │
+         │  │  ▸  Architected and delivered 3 React/Node.js frontend     │
+         │  │     modules for a university research lab portal —          │
+         │  │     owned end-to-end from design to deployment              │
+         │  │                                                             │
+         │  │  ▸  Integrated REST APIs for seamless client-to-backend    │
+         │  │     data synchronization across all three modules           │
+         │  │                                                             │
+         │  │  ▸  Improved UI responsiveness across 10+ pages —          │
+         │  │     reduced inconsistencies by ~20%, aligned fully with     │
+         │  │     WCAG accessibility standards                            │
+         │  │                                                             │
+         │  └─────────────────────────────────────────────────────────────┘
+         │
+  2023   ◈  B.TECH COMPUTER SCIENCE ENGINEERING — VIT VELLORE
+         │  CGPA: 9.52 / 10.0  ·  Expected 2027
+         │
+         │  ▸  Technical Head, SCRS Club
+         │  ▸  4 production-grade projects across AI/ML and Full Stack
+         │  ▸  Certifications: ISRO · IBM · Oracle · NIT Rourkela
+         │
+  ───────┘
+```
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                   GITHUB ANALYTICS                        -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0221,50:1a0533,100:0D0221&height=2&section=header" />
+
+<br/>
+
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  GITHUB ANALYTICS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+<br/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=yash120704&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0221&title_color=A78BFA&icon_color=7C3AED&text_color=C4B5FD&ring_color=6D28D9&custom_title=Activity+Overview" />&nbsp;&nbsp;<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash120704&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0D0221&title_color=A78BFA&text_color=C4B5FD&custom_title=Language+Distribution" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yash120704&theme=midnight-purple&hide_border=true&background=0D0221&stroke=7C3AED&ring=A78BFA&fire=C084FC&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=94A3B8" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yash120704&theme=midnight-purple&hide_border=true&background=0D0221&stroke=1a0533&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA&sideLabels=C4B5FD&dates=6D6D8A&currStreakNum=E2E8F0&sideNums=E2E8F0" />
 
 <br/><br/>
 
-### ◈ Trophies
+```
+━━━  TROPHIES  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
 
-<img src="https://github-profile-trophy.vercel.app/?username=yash120704&theme=dracula&no-frame=true&no-bg=true&column=7&margin-w=6&title_color=A78BFA" />
+<br/>
 
-<br/><br/>
-
-### ◈ Activity Graph
-
-[![Yash's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yash120704&bg_color=0D0221&color=A78BFA&line=7C3AED&point=C084FC&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-profile-trophy.vercel.app/?username=yash120704&theme=dracula&no-frame=true&no-bg=true&column=7&margin-w=8" />
 
 <br/><br/>
 
-### ◈ Contribution Snake
+```
+━━━  CONTRIBUTION GRAPH  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+<br/>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yash120704&bg_color=0D0221&color=A78BFA&line=6D28D9&point=C084FC&area=true&hide_border=true&area_color=1a0533)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br/><br/>
+
+```
+━━━  CONTRIBUTION SNAKE  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yash120704/yash120704/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yash120704/yash120704/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/yash120704/yash120704/output/github-snake-dark.svg" />
+  <img alt="contribution-snake" src="https://raw.githubusercontent.com/yash120704/yash120704/output/github-snake-dark.svg" />
 </picture>
 
 </div>
 
 <br/>
 
-<!-- ============================================================ -->
-<!--               CERTIFICATIONS                                 -->
-<!-- ============================================================ -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                   CREDENTIALS                             -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## `🏆 CREDENTIALS`
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0221,50:1a0533,100:0D0221&height=2&section=header" />
 
 <br/>
 
-| &nbsp;**Certification**&nbsp; | &nbsp;**Issuer**&nbsp; | &nbsp;**Domain**&nbsp; | &nbsp;**Link**&nbsp; |
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  CREDENTIALS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+<br/>
+
+| Certification | Issuer | Domain | Link |
 |:---|:---:|:---:|:---:|
-| Geodata Processing using Python & ML | **ISRO** | `AI · Geospatial` | [🔗 View](https://drive.google.com/file/d/1i47pPsetVJZ4L7ESfxRfonE9uPNCS4ip/view?usp=drive_link) |
-| Generative AI using IBM Watsonx | **IBM** | `GenAI · LLMs` | [🔗 View](https://drive.google.com/file/d/1Ak1PpCnhisd20Fyo-UM-YW1XUXkqVUUh/view?usp=drive_link) |
-| Oracle Cloud Generative AI Professional | **Oracle** | `Cloud · GenAI` | [🔗 View](https://drive.google.com/file/d/1zuBkxXxjNIWxc3YTBprFapFCNsrBo_Oz/view?usp=drive_link) |
-| Web Development + UI/UX | **NIT Rourkela** | `Full Stack · Design` | [🔗 View](https://drive.google.com/file/d/1YEwHKALNL-VTuv1Pot8mt5oNyLP8Bp1U/view?usp=sharing) |
-| Full Stack Web Development Bootcamp | **Udemy** | `Full Stack` | [🔗 View](https://drive.google.com/file/d/1QM3jTG9TbRG02WxKilF9nXkriV-SGKb_/view?usp=sharing) |
+| Geodata Processing using Python & ML | **ISRO** | `AI · Geospatial` | [View](https://drive.google.com/file/d/1i47pPsetVJZ4L7ESfxRfonE9uPNCS4ip/view?usp=drive_link) |
+| Generative AI using IBM Watsonx | **IBM** | `GenAI · LLMs` | [View](https://drive.google.com/file/d/1Ak1PpCnhisd20Fyo-UM-YW1XUXkqVUUh/view?usp=drive_link) |
+| Oracle Cloud Generative AI Professional | **Oracle** | `Cloud · GenAI` | [View](https://drive.google.com/file/d/1zuBkxXxjNIWxc3YTBprFapFCNsrBo_Oz/view?usp=drive_link) |
+| Web Development + UI/UX | **NIT Rourkela** | `Full Stack · Design` | [View](https://drive.google.com/file/d/1YEwHKALNL-VTuv1Pot8Mt5oNyLP8Bp1U/view?usp=sharing) |
+| Full Stack Web Development Bootcamp | **Udemy** | `Full Stack` | [View](https://drive.google.com/file/d/1QM3jTG9TbRG02WxKilF9nXkriV-SGKb_/view?usp=sharing) |
 
 <br/>
 
-> 🎯 **Leadership:** Technical Head — SCRS Club, VIT Vellore
+![Leadership](https://img.shields.io/badge/Leadership-Technical%20Head%2C%20SCRS%20Club%20·%20VIT%20Vellore-0D0221?style=for-the-badge&logoColor=A78BFA)
 
 </div>
 
 <br/>
 
-<!-- ============================================================ -->
-<!--               CONNECT                                       -->
-<!-- ============================================================ -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                   CONNECT                                 -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## `🌐 LET'S CONNECT`
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0221,50:1a0533,100:0D0221&height=2&section=header" />
 
 <br/>
 
-*Open to internships · research collabs · open source · and conversations about AI.*
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  CONNECT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0D0221?style=for-the-badge&logo=linkedin&logoColor=A78BFA)](https://www.linkedin.com/in/yashkashyap12)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-0D0221?style=for-the-badge&logo=github&logoColor=A78BFA)](https://github.com/yash120704)
-[![Gmail](https://img.shields.io/badge/Email-Reach%20Out-0D0221?style=for-the-badge&logo=gmail&logoColor=A78BFA)](mailto:yashkashyap1204@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-0D0221?style=for-the-badge&logo=leetcode&logoColor=A78BFA)](https://leetcode.com/your-leetcode-username)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0D0221?style=for-the-badge&logo=vercel&logoColor=A78BFA)](https://your-portfolio.com)
-[![Resume](https://img.shields.io/badge/Résumé-Download-0D0221?style=for-the-badge&logo=googledrive&logoColor=A78BFA)](https://drive.google.com/file/d/1RdC2OgI4chos_7tfefPQxFjq8Qc8Tizl/view?usp=drive_link)
+*Open to internships · research roles · open source · and conversations about AI systems.*
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0221?style=for-the-badge&logo=linkedin&logoColor=A78BFA)](https://www.linkedin.com/in/yashkashyap12)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-0D0221?style=for-the-badge&logo=github&logoColor=A78BFA)](https://github.com/yash120704)&nbsp;
+[![Email](https://img.shields.io/badge/Email-0D0221?style=for-the-badge&logo=gmail&logoColor=A78BFA)](mailto:yashkashyap1204@gmail.com)&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-0D0221?style=for-the-badge&logo=leetcode&logoColor=A78BFA)](https://leetcode.com/your-leetcode-username)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D0221?style=for-the-badge&logo=vercel&logoColor=A78BFA)](https://your-portfolio.com)&nbsp;
+[![Resume](https://img.shields.io/badge/Resume-0D0221?style=for-the-badge&logo=googledrive&logoColor=A78BFA)](https://drive.google.com/file/d/1RdC2OgI4chos_7tfefPQxFjq8Qc8Tizl/view?usp=drive_link)
 
 <br/><br/>
 
-<!-- Quote -->
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+
+<br/><br/>
 
 </div>
 
-<br/>
-
-<!-- ============================================================ -->
-<!--               CINEMATIC FOOTER                              -->
-<!-- ============================================================ -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                   CINEMATIC FOOTER                        -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║       "I build systems that think.                               ║
-║        Clean code. Real impact. Zero compromise."                ║
-║                                                                  ║
-║                                        — Yash Kashyap            ║
-╚══════════════════════════════════════════════════════════════════╝
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  "I build systems that think — ML pipelines, full-stack platforms,
+   and everything in between. Clean code. Real impact. No shortcuts."
+
+                                                        — Yash Kashyap
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
 <br/>
 
-*⭐ If my work resonates, a star on any repo means the world — thanks for visiting.*
+*If my work resonates, a star on any repo means the world — thanks for visiting.*
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:1a0533,40:130f40,70:0d0221,100:000000&height=140&section=footer&text=Let%27s%20Build%20Something%20Remarkable.&fontSize=22&fontColor=A78BFA&fontAlignY=55&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:1a0533,30:130f40,60:0d0221,100:000000&height=160&section=footer&text=Let%27s%20Build%20Something%20Remarkable&fontSize=24&fontColor=A78BFA&fontAlignY=55&animation=fadeIn" />
 
 </div>
