@@ -121,7 +121,7 @@ class YashKashyap:
 
 <div align="center">
 
-<h2 align="center">◈ &nbsp; Languages</h2>
+<h3 align="center">◈ &nbsp; Languages</h3>
 
 <br/>
 
