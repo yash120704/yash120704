@@ -16,7 +16,7 @@
 <a href="https://github.com/yash120704"><img src="https://img.shields.io/badge/GitHub-0D0221?style=for-the-badge&logo=github&logoColor=A78BFA" /></a>&nbsp;
 <a href="mailto:yashkashyap1204@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D0221?style=for-the-badge&logo=gmail&logoColor=A78BFA" /></a>&nbsp;
 <a href="https://drive.google.com/file/d/1RdC2OgI4chos_7tfefPQxFjq8Qc8Tizl/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-0D0221?style=for-the-badge&logo=googledrive&logoColor=A78BFA" /></a>&nbsp;
-<a href="https://leetcode.com/your-leetcode-username"><img src="https://img.shields.io/badge/LeetCode-0D0221?style=for-the-badge&logo=leetcode&logoColor=A78BFA" /></a>
+<a href="https://leetcode.com/u/CSRUOJGFFNJ/"><img src="https://img.shields.io/badge/LeetCode-0D0221?style=for-the-badge&logo=leetcode&logoColor=A78BFA" /></a>
 
 <br/><br/>
 
@@ -200,7 +200,7 @@ class YashKashyap:
 
 ---
 
-<details open>
+<details>
 <summary><b>&nbsp;01 &nbsp;·&nbsp; Hybrid Leak Detection System</b>&nbsp;&nbsp;<img src="https://img.shields.io/badge/AI%20·%20IoT%20·%20Real--Time-130f40?style=flat-square&logoColor=A78BFA" /></summary>
 
 <br/>
@@ -266,7 +266,7 @@ class YashKashyap:
 
 ---
 
-<details open>
+<details>
 <summary><b>&nbsp;02 &nbsp;·&nbsp; Traffic Density Prediction System</b>&nbsp;&nbsp;<img src="https://img.shields.io/badge/ML%20·%20REST%20·%20React-130f40?style=flat-square&logoColor=A78BFA" /></summary>
 
 <br/>
