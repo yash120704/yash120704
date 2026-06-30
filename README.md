@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/Gmail-0D0221?style=for-the-badge&logo=gmail&logoColor=A78BFA" />
 </a>&nbsp;
 
-<a href="https://drive.google.com/file/d/1RdC2OgI4chos_7tfefPQxFjq8Qc8Tizl/view?usp=drive_link">
+<a href="https://drive.google.com/file/d/1Q7d1ORsly6O8EAkD57yl-MMziZfw-jR4/view?usp=sharing">
   <img src="https://img.shields.io/badge/Resume-0D0221?style=for-the-badge&logo=googledrive&logoColor=A78BFA" />
 </a>&nbsp;
 
@@ -697,7 +697,7 @@ class YashKashyap:
 [![GitHub](https://img.shields.io/badge/GitHub-0D0221?style=for-the-badge&logo=github&logoColor=A78BFA)](https://github.com/yash120704)&nbsp;
 [![Email](https://img.shields.io/badge/Email-0D0221?style=for-the-badge&logo=gmail&logoColor=A78BFA)](mailto:yashkashyap1204@gmail.com)&nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-0D0221?style=for-the-badge&logo=vercel&logoColor=A78BFA)](https://my-portfolio-sand-eight-35.vercel.app/)&nbsp;
-[![Resume](https://img.shields.io/badge/Resume-0D0221?style=for-the-badge&logo=googledrive&logoColor=A78BFA)](https://drive.google.com/file/d/1RdC2OgI4chos_7tfefPQxFjq8Qc8Tizl/view?usp=drive_link)
+[![Resume](https://img.shields.io/badge/Resume-0D0221?style=for-the-badge&logo=googledrive&logoColor=A78BFA)](https://drive.google.com/file/d/1Q7d1ORsly6O8EAkD57yl-MMziZfw-jR4/view?usp=sharing)
 
 <br/><br/>
 
