@@ -8,7 +8,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=15&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=38&lines=B.Tech+Computer+Science+%40+VIT+Vellore+%7C+CGPA%3A+9.52;Building+10-model+AI+ensemble+for+real-time+anomaly+detection;Full+Stack+Engineer+%7C+ML+Pipelines+%7C+REST+Architecture;Open+to+Internships%2C+Research+%26+Open+Source+Collaboration)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=15&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=38&lines=B.Tech+Computer+Science+%40+VIT+Vellore+%7C+CGPA%3A+9.56;AI%2FML+Intern+%40+IIT+Jodhpur+%E2%80%94+Computer+Vision+%26+Deep+Learning;Full+Stack+Engineer+%7C+ML+Pipelines+%7C+REST+Architecture;Open+to+Internships%2C+Research+%26+Open+Source+Collaboration)](https://git.io/typing-svg)
 
 <br/><br/>
 
@@ -31,10 +31,6 @@
 <a href="https://my-portfolio-sand-eight-35.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-0D0221?style=for-the-badge&logo=vercel&logoColor=A78BFA" />
 </a>
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=yash120704&style=for-the-badge&color=6D28D9&labelColor=0D0221&label=PROFILE+VIEWS" />&nbsp;
-<img src="https://img.shields.io/github/followers/yash120704?style=for-the-badge&color=6D28D9&labelColor=0D0221&label=FOLLOWERS" />
 
 </div>
 
@@ -47,7 +43,7 @@
 <!---------- WHO AM I ---------->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D0221,100:1a0533&height=50&text=%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%20WHO%20AM%20I%20%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B&fontSize=16&fontColor=A78BFA&fontAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D0221,100:1a0533&height=50&text=%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%20WHO%20AM%20I%20%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B&fontSize=16&fontColor=A78BFA&fontAlignY=55&animation=fadeIn" width="100%"/>
 </div>
 
 <br/>
@@ -62,22 +58,22 @@ class YashKashyap:
     identity = {
         "university" : "Vellore Institute of Technology",
         "degree"     : "B.Tech — Computer Science Engineering",
-        "cgpa"       : 9.52,                   # while shipping 4 production projects
+        "cgpa"       : 9.56,                   # while shipping 6 production projects
         "batch"      : "2023 → 2027",
         "location"   : "India",
     }
 
     stack = {
-        "ai_ml"    : ["Scikit-learn", "HuggingFace", "FLAN-T5", "Ensemble Modeling"],
-        "backend"  : ["Django", "FastAPI", "Node.js", "Express.js", "WebSockets"],
+        "ai_ml"    : ["Scikit-learn", "TensorFlow/Keras", "HuggingFace", "FLAN-T5", "Ensemble Modeling", "NLP"],
+        "backend"  : ["Django", "DRF", "FastAPI", "Node.js", "Express.js", "WebSockets", "Celery"],
         "frontend" : ["React", "Streamlit", "HTML5", "CSS3"],
-        "data"     : ["PostgreSQL", "MySQL", "Supabase"],
+        "data"     : ["PostgreSQL", "MySQL", "Supabase", "Redis"],
         "languages": ["Python", "Java", "JavaScript", "C/C++", "SQL"],
     }
 
     now = {
-        "building"   : "Hybrid AI pipelines · Real-time industrial anomaly detection",
-        "learning"   : "LLM fine-tuning · MLOps · Distributed System Design",
+        "building"   : "Runtime ML model authentication · Computer vision pipelines",
+        "learning"   : "Behavioral fingerprinting · MLOps · Distributed System Design",
         "exploring"  : "Vector databases · Agentic AI · Event-driven architectures",
         "open_to"    : ["SDE Internships", "ML Research", "Open Source"],
     }
@@ -107,10 +103,10 @@ class YashKashyap:
 
 | &nbsp;&nbsp;&nbsp;**SIGNAL**&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**TRANSMISSION**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 |:---:|:---|
-| `BUILDING` | Hybrid AI anomaly detection · University research portal |
-| `LEARNING` | LLM fine-tuning · MLOps pipelines · System design at scale |
+| `BUILDING` | Runtime ML model authentication · Behavioral fingerprinting systems |
+| `LEARNING` | Computer vision · LSTM behavioral classifiers · MLOps at scale |
 | `EXPLORING` | Agentic AI · Vector embeddings · Real-time data architectures |
-| `INTERESTED IN` | Applied ML research · Generative AI · High-performance backends |
+| `INTERESTED IN` | Applied ML research · Computer Vision · High-performance backends |
 | `OPEN TO` | SDE Internships · Research roles · Open source collaboration |
 | `ASK ME ABOUT` | Python · Django · React · ML Ensembles · REST API design |
 
@@ -149,6 +145,7 @@ class YashKashyap:
 <br/>
 
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0D0221?style=for-the-badge&logo=scikit-learn&logoColor=A78BFA)&nbsp;
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0D0221?style=for-the-badge&logo=tensorflow&logoColor=A78BFA)&nbsp;
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-0D0221?style=for-the-badge&logo=huggingface&logoColor=A78BFA)&nbsp;
 ![Pandas](https://img.shields.io/badge/Pandas-0D0221?style=for-the-badge&logo=pandas&logoColor=A78BFA)&nbsp;
 ![NumPy](https://img.shields.io/badge/NumPy-0D0221?style=for-the-badge&logo=numpy&logoColor=A78BFA)&nbsp;
@@ -165,7 +162,8 @@ class YashKashyap:
 ![Node.js](https://img.shields.io/badge/Node.js-0D0221?style=for-the-badge&logo=node.js&logoColor=A78BFA)&nbsp;
 ![Express.js](https://img.shields.io/badge/Express.js-0D0221?style=for-the-badge&logo=express&logoColor=A78BFA)&nbsp;
 ![DRF](https://img.shields.io/badge/Django_REST-0D0221?style=for-the-badge&logo=django&logoColor=A78BFA)&nbsp;
-![WebSockets](https://img.shields.io/badge/WebSockets-0D0221?style=for-the-badge&logo=socket.io&logoColor=A78BFA)
+![WebSockets](https://img.shields.io/badge/WebSockets-0D0221?style=for-the-badge&logo=socket.io&logoColor=A78BFA)&nbsp;
+![Celery](https://img.shields.io/badge/Celery-0D0221?style=for-the-badge&logo=celery&logoColor=A78BFA)
 
 <br/><br/>
 
@@ -187,6 +185,8 @@ class YashKashyap:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D0221?style=for-the-badge&logo=postgresql&logoColor=A78BFA)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-0D0221?style=for-the-badge&logo=mysql&logoColor=A78BFA)&nbsp;
 ![Supabase](https://img.shields.io/badge/Supabase-0D0221?style=for-the-badge&logo=supabase&logoColor=A78BFA)&nbsp;
+![Redis](https://img.shields.io/badge/Redis-0D0221?style=for-the-badge&logo=redis&logoColor=A78BFA)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-0D0221?style=for-the-badge&logo=docker&logoColor=A78BFA)&nbsp;
 ![Git](https://img.shields.io/badge/Git-0D0221?style=for-the-badge&logo=git&logoColor=A78BFA)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-0D0221?style=for-the-badge&logo=postman&logoColor=A78BFA)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-0D0221?style=for-the-badge&logo=github&logoColor=A78BFA)
@@ -214,7 +214,131 @@ class YashKashyap:
 ---
 
 <details>
-<summary><b>&nbsp;01 &nbsp;·&nbsp; Hybrid Leak Detection System</b>&nbsp;&nbsp;<img src="https://img.shields.io/badge/AI%20·%20IoT%20·%20Real--Time-130f40?style=flat-square&logoColor=A78BFA" /></summary>
+<summary><b>&nbsp;01 &nbsp;·&nbsp; Sentinel — AI Model Auth via Behavioral Fingerprinting</b>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Security%20·%20MLOps%20·%20Async-130f40?style=flat-square&logoColor=A78BFA" /></summary>
+
+<br/>
+
+<div align="center">
+
+**Runtime Security — Detecting ML Model Swaps via Behavioral Probes**
+
+*7 REST/WebSocket endpoints · Encrypted rotating probes · 85%+ test coverage*
+
+<br/>
+
+```text
+╔══════════════════════════════════════════════════════════════════════════╗
+║  RUNTIME MODEL AUTHENTICATION PIPELINE                                  ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║                                                                          ║
+║  [Deployed ML Model]                                                     ║
+║         │                                                                ║
+║         ▼                                                                ║
+║  ┌──────────────────┐     ┌───────────────────┐     ┌──────────────────┐ ║
+║  │  Encrypted        │────▶│  Scheduled         │────▶│  Fingerprint     │ ║
+║  │  Rotating Probes  │     │  Verification Jobs │     │  Comparison      │ ║
+║  └──────────────────┘     └───────────────────┘     └──────────────────┘ ║
+║         │ Celery + Redis                                    │            ║
+║         ▼                                                    ▼            ║
+║  ┌──────────────────┐                              ┌──────────────────┐  ║
+║  │  7 REST/WS        │                              │  ▸ SWAP DETECTED │  ║
+║  │  Endpoints         │                              │    ALERT         │  ║
+║  └──────────────────┘                              └──────────────────┘  ║
+╚══════════════════════════════════════════════════════════════════════════╝
+```
+
+<br/>
+
+</div>
+
+**Engineering Highlights**
+
+- Designed a **runtime authentication system** that detects ML model swaps using encrypted, rotating behavioral probes
+- Built **7 REST/WebSocket endpoints** with scheduled fingerprint verification jobs via Celery + Redis
+- **Load-tested with Locust** at 50 concurrent users while maintaining **≥85% test coverage** across core services
+
+<br/>
+
+<div align="center">
+
+![FastAPI](https://img.shields.io/badge/FastAPI-0D0221?style=flat-square&logo=fastapi&logoColor=A78BFA)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D0221?style=flat-square&logo=postgresql&logoColor=A78BFA)
+![Redis](https://img.shields.io/badge/Redis-0D0221?style=flat-square&logo=redis&logoColor=A78BFA)
+![Celery](https://img.shields.io/badge/Celery-0D0221?style=flat-square&logo=celery&logoColor=A78BFA)
+
+&nbsp;[![View Repository](https://img.shields.io/badge/View_Repository-0D0221?style=for-the-badge&logo=github&logoColor=A78BFA)](https://github.com/yash120704/sentinel-system.git)
+
+</div>
+
+</details>
+
+---
+
+<details>
+<summary><b>&nbsp;02 &nbsp;·&nbsp; DevSecOps — Repository Security & Compliance Scanner</b>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Security%20·%20DevOps%20·%20Async-130f40?style=flat-square&logoColor=A78BFA" /></summary>
+
+<br/>
+
+<div align="center">
+
+**Security Tooling — Automated Compliance Scoring for GitHub Repositories**
+
+*10 REST endpoints · Sub-2s API response · pip-audit + bandit + radon integration*
+
+<br/>
+
+```text
+╔══════════════════════════════════════════════════════════════════════════╗
+║  REPOSITORY COMPLIANCE SCANNING PIPELINE                                ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║                                                                          ║
+║  [GitHub Repo — up to 500MB]                                             ║
+║         │                                                                ║
+║         ▼                                                                ║
+║  ┌──────────────────────────────────────────────────────────────────┐   ║
+║  │  Async Celery + Redis Queue  (120s scan timeout)                  │   ║
+║  └───────────────────────────────┬──────────────────────────────────┘   ║
+║                                  ▼                                       ║
+║  ┌───────────────┐   ┌───────────────┐   ┌──────────────────────────┐  ║
+║  │  pip-audit     │   │  bandit        │   │  radon                  │  ║
+║  │  (deps)        │   │  (security)    │   │  (complexity)           │  ║
+║  └───────────────┘   └───────────────┘   └──────────────────────────┘  ║
+║                                  │                                       ║
+║                                  ▼                                       ║
+║                  ▸ WEIGHTED COMPLIANCE SCORE + RISK REPORT              ║
+╚══════════════════════════════════════════════════════════════════════════╝
+```
+
+<br/>
+
+</div>
+
+**Engineering Highlights**
+
+- Built a full-stack platform with **10 REST endpoints** scanning repos up to 500MB across 4 compliance dimensions
+- Engineered an **async Celery + Redis pipeline** achieving sub-2s API response times with a 120s scan timeout
+- Integrated **pip-audit, bandit, and radon** to generate weighted compliance scores and risk reports
+
+<br/>
+
+<div align="center">
+
+![React](https://img.shields.io/badge/React-0D0221?style=flat-square&logo=react&logoColor=A78BFA)
+![Django](https://img.shields.io/badge/Django-0D0221?style=flat-square&logo=django&logoColor=A78BFA)
+![Celery](https://img.shields.io/badge/Celery-0D0221?style=flat-square&logo=celery&logoColor=A78BFA)
+![Supabase](https://img.shields.io/badge/Supabase-0D0221?style=flat-square&logo=supabase&logoColor=A78BFA)
+
+&nbsp;[![View Repository](https://img.shields.io/badge/View_Repository-0D0221?style=for-the-badge&logo=github&logoColor=A78BFA)](https://github.com/yash120704/DevSecOps.git)&nbsp;
+[![Live Demo](https://img.shields.io/badge/Live_Demo-130f40?style=for-the-badge&logo=vercel&logoColor=A78BFA)](https://dev-sec-ops-ruby.vercel.app/)
+
+</div>
+
+</details>
+
+---
+
+<details>
+<summary><b>&nbsp;03 &nbsp;·&nbsp; Hybrid Leak Detection System</b>&nbsp;&nbsp;<img src="https://img.shields.io/badge/AI%20·%20IoT%20·%20Real--Time-130f40?style=flat-square&logoColor=A78BFA" /></summary>
 
 <br/>
 
@@ -280,7 +404,7 @@ class YashKashyap:
 ---
 
 <details>
-<summary><b>&nbsp;02 &nbsp;·&nbsp; Traffic Density Prediction System</b>&nbsp;&nbsp;<img src="https://img.shields.io/badge/ML%20·%20REST%20·%20React-130f40?style=flat-square&logoColor=A78BFA" /></summary>
+<summary><b>&nbsp;04 &nbsp;·&nbsp; Traffic Density Prediction System</b>&nbsp;&nbsp;<img src="https://img.shields.io/badge/ML%20·%20REST%20·%20React-130f40?style=flat-square&logoColor=A78BFA" /></summary>
 
 <br/>
 
@@ -346,7 +470,7 @@ class YashKashyap:
 ---
 
 <details>
-<summary><b>&nbsp;03 &nbsp;·&nbsp; Product Feature Extraction</b>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Zero--Shot%20·%20FLAN--T5%20·%20NLP-130f40?style=flat-square&logoColor=A78BFA" /></summary>
+<summary><b>&nbsp;05 &nbsp;·&nbsp; Product Feature Extraction</b>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Zero--Shot%20·%20FLAN--T5%20·%20NLP-130f40?style=flat-square&logoColor=A78BFA" /></summary>
 
 <br/>
 
@@ -394,7 +518,7 @@ class YashKashyap:
 ---
 
 <details>
-<summary><b>&nbsp;04 &nbsp;·&nbsp; Escape.exe — Team Management Platform</b>&nbsp;&nbsp;<img src="https://img.shields.io/badge/RBAC%20·%20Auth%20·%20PostgreSQL-130f40?style=flat-square&logoColor=A78BFA" /></summary>
+<summary><b>&nbsp;06 &nbsp;·&nbsp; Escape.exe — Team Management Platform</b>&nbsp;&nbsp;<img src="https://img.shields.io/badge/RBAC%20·%20Auth%20·%20PostgreSQL-130f40?style=flat-square&logoColor=A78BFA" /></summary>
 
 <br/>
 
@@ -460,6 +584,35 @@ class YashKashyap:
 <tr>
 <td width="160" align="center" valign="top">
 <br/>
+<img src="https://img.shields.io/badge/2026-Summer-6D28D9?style=for-the-badge&labelColor=0D0221" />
+<br/><br/>
+<img src="https://img.shields.io/badge/INTERNSHIP-A78BFA?style=flat-square&labelColor=130f40" />
+</td>
+<td valign="top">
+<br/>
+
+**AI/ML Intern**
+&nbsp;&nbsp;·&nbsp;&nbsp;
+**IIT Jodhpur — Computer Vision & Deep Learning**
+
+<br/>
+
+![Python](https://img.shields.io/badge/Python-0D0221?style=flat-square&logo=python&logoColor=A78BFA)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-0D0221?style=flat-square&logo=opencv&logoColor=A78BFA)
+![LSTM](https://img.shields.io/badge/LSTM-0D0221?style=flat-square&logo=tensorflow&logoColor=A78BFA)
+
+<br/>
+
+- Developed a **smart attendance system** combining face recognition, pose tracking, and an LSTM behavioral classifier; fixed a class-bias issue, raising minority-user accuracy from ~15% to **85–90%+**
+- Achieved **real-time inference at 25–30 FPS** with a 3-stage face → liveness → behavior verification pipeline
+
+<br/>
+</td>
+</tr>
+<tr><td colspan="2"><br/></td></tr>
+<tr>
+<td width="160" align="center" valign="top">
+<br/>
 <img src="https://img.shields.io/badge/2025-Summer-6D28D9?style=for-the-badge&labelColor=0D0221" />
 <br/><br/>
 <img src="https://img.shields.io/badge/INTERNSHIP-A78BFA?style=flat-square&labelColor=130f40" />
@@ -474,20 +627,20 @@ class YashKashyap:
 <br/>
 
 ![React](https://img.shields.io/badge/React-0D0221?style=flat-square&logo=react&logoColor=A78BFA)
-![Node.js](https://img.shields.io/badge/Node.js-0D0221?style=flat-square&logo=node.js&logoColor=A78BFA)
-![REST APIs](https://img.shields.io/badge/REST_APIs-0D0221?style=flat-square&logo=fastapi&logoColor=A78BFA)
-![UI/UX](https://img.shields.io/badge/UI%2FUX-0D0221?style=flat-square&logo=figma&logoColor=A78BFA)
+![Django](https://img.shields.io/badge/Django-0D0221?style=flat-square&logo=django&logoColor=A78BFA)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D0221?style=flat-square&logo=postgresql&logoColor=A78BFA)
 
 <br/>
 
-- Architected and delivered **3 React/Node.js frontend modules** for a university research lab portal — owned end-to-end from design to deployment
-- Integrated REST APIs for seamless client-to-backend **data synchronization** across all three modules
-- Improved UI responsiveness across **10+ pages** — reduced inconsistencies by ~20%, aligned fully with WCAG accessibility standards
+- Architected a **3-tier traffic density prediction platform** (React, Django REST, PostgreSQL) using a Random Forest model with **81.5% accuracy** across 62 Delhi locations
+- Improved UI responsiveness across **10+ pages**, cutting inconsistencies by ~20%
 
 <br/>
 </td>
 </tr>
 </table>
+
+</div>
 
 <br/>
 
@@ -507,6 +660,7 @@ class YashKashyap:
 
 | Certification | Issuer | Domain | Link |
 |:---|:---:|:---:|:---:|
+| Machine Learning | **Stanford Online** | `AI · ML` | [View ↗](https://drive.google.com/drive/folders/17BPRXoyUGSXxxMm9X-3PG7bZMh67tw5O?usp=sharing) |
 | Geodata Processing using Python & ML | **ISRO** | `AI · Geospatial` | [View ↗](https://drive.google.com/file/d/1i47pPsetVJZ4L7ESfxRfonE9uPNCS4ip/view?usp=drive_link) |
 | Generative AI using IBM Watsonx | **IBM** | `GenAI · LLMs` | [View ↗](https://drive.google.com/file/d/1Ak1PpCnhisd20Fyo-UM-YW1XUXkqVUUh/view?usp=drive_link) |
 | Oracle Cloud Generative AI Professional | **Oracle** | `Cloud · GenAI` | [View ↗](https://drive.google.com/file/d/1zuBkxXxjNIWxc3YTBprFapFCNsrBo_Oz/view?usp=drive_link) |
